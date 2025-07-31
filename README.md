@@ -6,9 +6,18 @@
 
 ---
 
-## 👋 Introduction
+# Kamlesh Kumar - Front-End Developer Resume
 
-This repository contains a personal resume written in **Markdown** — ideal for developers and designers who prefer version-controlled, open-source, and portable formats for their professional CV.
+This repository contains my latest resume highlighting:
+
+- ✅ Skills: HTML, CSS, JavaScript, React, Tailwind "MERN"
+- ✅ Projects: Internship Portal, Notes Sharing, Multi-Service Platform
+- ✅ Experience: Internshala (Web Dev), TPS Empire (Python), Marpu Foundation (NGO)
+- ✅ Certifications: IIT Kharagpur - Java, Python, C Programming
+
+📄 [Download Resume (PDF)](./Kamlesh's%20Resume.pdf)
+
+
 
 ## 📬 Contact
 
